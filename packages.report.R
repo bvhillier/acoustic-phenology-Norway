@@ -1,0 +1,55 @@
+# Install packages
+install.packages("readxl")
+install.packages("taxize")
+install.packages('tidyverse')
+install.packages('frostr') # norway met data
+install.packages("auk")
+install.packages('openxlsx')
+install.packages('gapminder')
+install.packages('gganimate')
+install.packages('gifski')
+install.packages('png')
+install.packages('pheatmap')
+install.packages("gplots")
+install.packages("imagemagick")
+install.packages("geosphere")
+install.packages("ggbump")
+install.packages('patchwork')
+install.packages('cgwtools')
+install.packages('stargazer')
+
+# load libraries
+library(readxl)
+library(taxize)
+library(tidyverse)
+library(frostr) # norway met data
+library(auk)
+library(openxlsx)
+library(gapminder)
+library(gganimate)
+library(gifski)
+library(png)
+library(pheatmap)
+library(gplots)
+library(forcats)
+library(dplyr)
+library(ggplot2) 
+library(knitr)
+library(raster)
+library(readr)
+library(data.table)
+library(taxize)
+library(tidyverse)
+library(readxl)
+library(gapminder)
+library(gganimate)
+library(gifski)
+library(geosphere)
+library(ggbump)
+library(patchwork)
+library(cgwtools)
+
+###########################
+# END
+
+
